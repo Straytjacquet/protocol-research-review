@@ -40,7 +40,7 @@ Research will be reviewed via a pull request. To do this, [please follow instruc
 Should you ever need to pull any changes in the upstream repository, always `rebase`:
 
 ```
-> git remote add upstream https://github.com/vefunder/protocol-research-review.git`
+> git remote add upstream https://github.com/vefunder/protocol-research-review.git
 > git fetch upstream
 > git rebase upstream/main
 > git push origin main --force
@@ -53,8 +53,17 @@ Should you ever need to pull any changes in the upstream repository, always `reb
 1. Do not plagiarise!
 2. Use grammarly before submissions!
 3. Provide appropriate citations.
-4. If research involves code, pleae add working code to your submission (no data! that would bloat the repo).
+4. If research involves code, please add working code to your submission (no data! that would bloat the repo).
 5. Try to follow the [template](https://github.com/vefunder/protocol-research-review/blob/main/admin/templates/Report_template.md)
+
+## House style
+
+* Use "it's" rather than "it is"
+* Use "end user" rather than "enduser"
+* Use "multi-sig" rather than "multisig"
+* Use the Oxford comma 
+* Use "blue chip" rather than "bluechip"
+* American English spellings (e.g. "centralize" rather than "centralise")
 
 When in doubt, please follow the template used in the articles in the [Cryptorisks substack](https://cryptorisks.substack.com/).
 
